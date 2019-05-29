@@ -67,8 +67,7 @@ const uniOne = {
 
 const rate = {
   rank: '1',
-  rank: '2'
-}
+  }
 
 console.log(university.call(uniOne))
 console.log(university.apply(uniOne))
